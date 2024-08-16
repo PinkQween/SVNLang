@@ -1,0 +1,3 @@
+[submodule "VSCodeExtension"]
+	path = VSCodeExtension
+	url = https://github.com/PinkQween/SVN-VSCode-Support.git
